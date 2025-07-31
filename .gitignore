@@ -1,0 +1,23 @@
+.env
+node_modules
+.DS_Store
+# Logs
+logs
+npm-debug.log*
+# Build output 
+dist
+# Dependency directories
+bower_components
+# IDEs and editors
+.idea
+.vscode
+# Operating system files
+Thumbs.db
+# Coverage directory used by tools like istanbul
+coverage
+# Miscellaneous
+*.log
+# Temporary files
+*.tmp
+# Environment files
+.env.local
